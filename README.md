@@ -6,9 +6,9 @@
 3. [Moore](#moore)
 4. [Assignment 1: Benchmarking](#assignment-1-benchmarking)
 5. [Assignment 2: OMP Mandelbrot Fractal](#assignment-2-omp-mandelbrot-fractal)
-6. [Assignment 3: MPI Mandelbrot Fractal](#assignment-3-moi-mandelbrot-fractal)
+6. [Assignment 3: MPI Mandelbrot Fractal](#assignment-3-mpi-mandelbrot-fractal)
 7. [Assignment 4: Hybrid OMP-MPI Mandelbrot Fractal](#assignment-4-hybrid-omp-mpi-mandelbrot-fractal)
-8. [Assignment 5: Supercomputing Work or Comparison](#assignment-5-supercomputing-work-or-comparison)
+8. [Assignment 5: Supercomputing Work](#assignment-5-supercomputing-work)
 
 ## Introduction
 To follow this course, the student should have solid knowledge of structured programming in C language and
@@ -91,6 +91,8 @@ To run the programm in the cluster:
 ```
 qsub run-extended-mpi
 ```
-## Assignment 5: Supercomputing Work or Comparison
+## Assignment 5: Supercomputing Work
+Analyze, in detail, one of the top twenty Supercomputers listed in the Top500:
+https://www.top500.org/lists/top500/2022/11/ This analysis should include an accurate description of the technology used by the machine, focused into their computational architecture, network, memory and management of input output, their performance and a discussion about the main contributions of the described machine in relation to the others. 
 
 
